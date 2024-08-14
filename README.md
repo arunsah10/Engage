@@ -3,7 +3,6 @@
 
 **Engage** is a dynamic platform designed to connect college students for innovation, collaboration, and participation in hackathons. It enables students to share achievements, create posts, and interact with peers. With a focus on community building and personal growth, Engage provides a seamless and engaging experience.
 
----
 
 ## Getting Started
 
@@ -59,7 +58,6 @@ cd Engage
    npm start
    ```
 
----
 
 ## Directory Structure
 
@@ -68,18 +66,18 @@ cd Engage
 
 ### Screenshots
 
-- **signup_page.png**: Signup page
-- **chats.png**: Chat by one user
-- **chats_replied.png**: Chat by another user
-- **create_post.png**: To create a post
-- **feeds.png**: All feeds from connections
-- **main_page.png**: Main page
-- **profile_posts.png**: All posts made by the user
-- **update_profile.png**: To update profile details
-- **user1.png**: User 1 profile
-- **user2.png**: User 2 profile
+- **Signup Page**: ![signup_page.png](signup_page.png)
+- **Chat by One User**: ![chats.png](chats.png)
+- **Chat by Another User**: ![chats_replied.png](chats_replied.png)
+- **Create Post**: ![create_post.png](create_post.png)
+- **All Feeds from Connections**: ![feeds.png](feeds.png)
+- **Main Page**: ![main_page.png](main_page.png)
+- **All Posts Made by the User**: ![profile_posts.png](profile_posts.png)
+- **To Update Profile Details**: ![update_profile.png](update_profile.png)
+- **User 1 Profile**: ![user1.png](user1.png)
+- **User 2 Profile**: ![user2.png](user2.png)
 
----
+
 
 ## Feature List
 
@@ -105,9 +103,6 @@ cd Engage
 ### 👀 Seen/Unseen Status
 - Track the status of your messages.
 
-### ⭐ Deployment for FREE
-- Deploy your application with no cost.
-
 ### ❤️ Like Post
 - Show appreciation by liking posts.
 
@@ -123,7 +118,6 @@ cd Engage
 ### 📱 Completely Responsive
 - Optimized for all devices.
 
----
 
 ## Unique Features
 
@@ -133,7 +127,6 @@ cd Engage
 - Connect with like-minded individuals and share achievements.
 - Create a supportive community for personal and professional growth.
 
----
 
 ## Future Features
 
@@ -143,24 +136,23 @@ cd Engage
 - **Notification System**: Stay updated with real-time notifications.
 - **User Analytics**: Track engagement and interactions on your posts.
 
----
 
 ## Author
 
-**Arun Kumar Sah**  
-[GitHub Profile](https://github.com/arunsah10)
+**Arun Kumar Sah**
 
----
+## Copyright
+
+© 2024 Arun Kumar Sah. All rights reserved.
 
 ## References
 
+- [GitHub Repository](https://github.com/arunsah10/Engage)
 - [MERN Stack Documentation](https://mernjs.com)
 - [Chakra UI Documentation](https://chakra-ui.com)
 - [Cloudinary Documentation](https://cloudinary.com/documentation)
 - [Socket.io Documentation](https://socket.io/docs)
 
----
 
 Feel free to contribute or raise issues. Happy coding! 🚀
 
----
