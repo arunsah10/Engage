@@ -69,6 +69,9 @@ cd Engage
 - **Signup Page**: <br>
   <img src="signup_page.png" alt="Signup Page" width="600" />
 
+- **Main Page**: <br>
+  <img src="main_page.png" alt="Main Page" width="600" />
+  
 - **Chat by One User**: <br>
   <img src="chats.png" alt="Chat by One User" width="600" />
 
@@ -80,9 +83,6 @@ cd Engage
 
 - **All Feeds from Connections**: <br>
   <img src="feeds.png" alt="All Feeds from Connections" width="600" />
-
-- **Main Page**: <br>
-  <img src="main_page.png" alt="Main Page" width="600" />
 
 - **All Posts Made by the User**: <br>
   <img src="profile_posts.png" alt="All Posts Made by the User" width="600" />
