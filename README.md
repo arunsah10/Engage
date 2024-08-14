@@ -17,7 +17,7 @@ cd Engage
 
 1. **Backend Configuration**
 
-   Fill the `.env` file in the `backend` directory with the following environment variables:
+   Create a `.env` file in the `backend` directory with the following environment variables:
 
    ```env
    PORT=
