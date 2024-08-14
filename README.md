@@ -66,16 +66,35 @@ cd Engage
 
 ### Screenshots
 
-- **Signup Page**: ![signup_page.png](signup_page.png)
-- **Chat by One User**: ![chats.png](chats.png)
-- **Chat by Another User**: ![chats_replied.png](chats_replied.png)
-- **Create Post**: ![create_post.png](create_post.png)
-- **All Feeds from Connections**: ![feeds.png](feeds.png)
-- **Main Page**: ![main_page.png](main_page.png)
-- **All Posts Made by the User**: ![profile_posts.png](profile_posts.png)
-- **To Update Profile Details**: ![update_profile.png](update_profile.png)
-- **User 1 Profile**: ![user1.png](user1.png)
-- **User 2 Profile**: ![user2.png](user2.png)
+- **Signup Page**: <br>
+  <img src="signup_page.png" alt="Signup Page" width="600" />
+
+- **Chat by One User**: <br>
+  <img src="chats.png" alt="Chat by One User" width="600" />
+
+- **Chat by Another User**: <br>
+  <img src="chats_replied.png" alt="Chat by Another User" width="600" />
+
+- **Create Post**: <br>
+  <img src="create_post.png" alt="Create Post" width="600" />
+
+- **All Feeds from Connections**: <br>
+  <img src="feeds.png" alt="All Feeds from Connections" width="600" />
+
+- **Main Page**: <br>
+  <img src="main_page.png" alt="Main Page" width="600" />
+
+- **All Posts Made by the User**: <br>
+  <img src="profile_posts.png" alt="All Posts Made by the User" width="600" />
+
+- **To Update Profile Details**: <br>
+  <img src="update_profile.png" alt="To Update Profile Details" width="600" />
+
+- **User 1 Profile**: <br>
+  <img src="user1.png" alt="User 1 Profile" width="600" />
+
+- **User 2 Profile**: <br>
+  <img src="user2.png" alt="User 2 Profile" width="600" />
 
 
 
