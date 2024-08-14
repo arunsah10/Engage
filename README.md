@@ -36,11 +36,11 @@ cd Engage
    cd frontend
    ```
 
-   Install dependencies and build the frontend:
+   Install dependencies and run the frontend:
 
    ```bash
    npm install
-   npm run build
+   npm run dev
    ```
 
 3. **Backend Setup**
